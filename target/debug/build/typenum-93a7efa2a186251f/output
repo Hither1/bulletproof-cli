@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/suhuangyuan/bulletproofs/target/debug/build/typenum-93a7efa2a186251f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/suhuangyuan/bulletproofs/target/debug/build/typenum-93a7efa2a186251f/out/op.rs
